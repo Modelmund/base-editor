@@ -1,0 +1,24 @@
+{
+  "name": "stackblitz-starters-pdzahn",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^5.2.6",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "@types/uuid": "^9.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "^3.3.3",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}

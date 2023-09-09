@@ -1,0 +1,14 @@
+#editor-toolbar {
+  display: flex;
+}
+#editor-toolbar button {
+  flex: 1;
+  background-color: antiquewhite;
+  padding: 0 10px;
+  height: 30px;
+}
+
+.editor-area {
+  min-height: 600px;
+  border: 1px dashed tomato;
+}

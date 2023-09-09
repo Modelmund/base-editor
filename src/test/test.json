@@ -1,0 +1,37 @@
+{
+  "type": "document",
+  "nodes": [
+    {
+      "type": "paragraph",
+      "segments": [
+        {
+          "text": "abcde",
+          "style": {
+            "fontWeight": "bold",
+            "color": "red"
+          }
+        },
+        {
+          "text": "fgh",
+          "style": {
+            "fontWeight": "bold",
+            "color": "green"
+          }
+        },
+        {
+          "text": "ijk"
+        },
+        {
+          "text": "lmnop",
+          "style": {
+            "fontWeight": "bold",
+            "color": "yellowgreen"
+          }
+        }
+      ],
+      "style": {
+        "textAlign": "center"
+      }
+    }
+  ]
+}
